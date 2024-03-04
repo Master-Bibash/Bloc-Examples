@@ -15,6 +15,7 @@ class IsolatedHomeExample2Screen extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
+            Icon(Icons.visibility_off,),
             SizedBox(
               height: 250,
             ),
